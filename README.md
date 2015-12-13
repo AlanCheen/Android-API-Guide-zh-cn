@@ -9,8 +9,22 @@
 
 ### [Introduction](Introduction)
  - [应用基础知识](Introduction/应用基础知识.md)
- 
 
+### [App Components](AppComponents)
+- [Intents and Intent Filters]()
+- [Activities]()
+- [Services]()
+- [Content Providers]()
+- [App Widgets]()
+- [Processes and Threads]()
+
+
+
+###  [App Resources]()
+
+### [App Manifest]()
+
+### [User Interface]()
 
 ## 日志
 

@@ -9,6 +9,8 @@
 
 ### [Introduction](Introduction)
  - [应用基础知识](Introduction/应用基础知识.md)
+ - [设备兼容性](Introduction/设备兼容性.md)
+ - [系统权限](Introduction/系统权限.md)
 
 ### [App Components](AppComponents)
 - [Intents and Intent Filters]()
